@@ -1,0 +1,18 @@
+.light {
+  margin: 0 auto;
+  background-color: #747bff;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  -ms-flex-align: center;
+  justify-content: center;
+}
+
+.btns {
+  display: flex;
+  justify-content: space-around;
+  padding: 20px;
+}
